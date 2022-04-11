@@ -1,0 +1,7 @@
+C:\Users\49174\source\repos\programing2Test\programing2Test\bin\Debug\programing2Test.exe.config
+C:\Users\49174\source\repos\programing2Test\programing2Test\bin\Debug\programing2Test.exe
+C:\Users\49174\source\repos\programing2Test\programing2Test\bin\Debug\programing2Test.pdb
+C:\Users\49174\source\repos\programing2Test\programing2Test\obj\Debug\programing2Test.csprojAssemblyReference.cache
+C:\Users\49174\source\repos\programing2Test\programing2Test\obj\Debug\programing2Test.csproj.CoreCompileInputs.cache
+C:\Users\49174\source\repos\programing2Test\programing2Test\obj\Debug\programing2Test.exe
+C:\Users\49174\source\repos\programing2Test\programing2Test\obj\Debug\programing2Test.pdb
